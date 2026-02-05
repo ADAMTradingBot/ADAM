@@ -1,7 +1,7 @@
 # ADAM: Autonomous Decentralized Algorithmic Market-Maker
 
 <div align="center">
-  <img src="adam.png" alt="ADAM Trading Robot" width="400"/>
+  <img src="ADAM.png" alt="ADAM Trading Robot" width="400"/>
 </div>
 ```
    ___    ____   ___   __  ___
