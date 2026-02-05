@@ -4,11 +4,6 @@
   <img src="ADAM.png.jpg" alt="ADAM Trading Robot" width="400"/>
 </div>
 ```
-   ___    ____   ___   __  ___
-  / _ \  / __ \ / _ | /  |/  /
- / __ | / /_/ // __ |/ /|_/ / 
-/_/ |_|/_____//_/ |_/_/  /_/  
-                               
 Raspberry Pi-Based Humanoid Trading Robot
 ```
 
