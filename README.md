@@ -761,17 +761,7 @@ The integration with Bags protocol provides the economic foundation for sustaina
 
 This project demonstrates that decentralized finance can extend beyond purely digital abstractions to encompass physical, observable systems that operate with transparency and accountability. As ADAM evolves, the vision is to create a network of autonomous trading entities that collectively provide liquidity and market efficiency while remaining grounded in physical reality.
 
-## Technical Support and Resources
 
-**Repository**: https://github.com/adam-trading-bot/adam
-
-**Documentation**: https://docs.adam-bot.io
-
-**Community**: https://discord.gg/adam-trading
-
-**Issue Tracker**: https://github.com/adam-trading-bot/adam/issues
-
-**Security Contact**: security@adam-bot.io
 
 ## License
 
